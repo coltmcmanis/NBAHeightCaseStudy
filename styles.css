@@ -1,0 +1,17 @@
+h1 {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+body {
+  color: rgb(29, 29, 29);
+  font-family: monospace;
+  line-height: 25px;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-bottom: 100px;
+}
