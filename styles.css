@@ -5,6 +5,35 @@ h1 {
   margin-bottom: 50px;
   margin-left: 10%;
   margin-right: 10%;
+  
+}
+
+h3 {
+  color: black;
+  font-family: 'Courier New';
+  font-size: large;
+  margin-top: 20px;
+  margin-bottom: -10px;
+  font-style: italic;
+}
+
+h5 {
+    color: black;
+    font-family: 'Courier New';
+    margin-top: -25px;
+    font-size: small;
+    margin-bottom: 0px;
+    margin-left: -.5px;
+    font-style: italic;
+}
+
+h6 {
+    color: black;
+    font-family: 'Courier New';
+    margin-top: -10px;
+    font-size: xx-small;
+    margin-bottom: 0px;
+    margin-left: -.5px;
 }
 
 body {
